@@ -41,7 +41,7 @@ public class SpringBootController {
     	    al.add(new Student(21, "Lalit"));
     	    al.add(new Student(21, "Lalit"));
     	    
-      System.out.println(al);
+    
     	    
     	    ArrayList<Student> al1=new ArrayList<>();
     	    al1.add(new Student(21, "Lalit"));
