@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBoot_Basics
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: acer
+Implementation-Vendor-Id: javabykiran
+Build-Jdk: 1.8.0_144
+Implementation-URL: https://spring.io/projects/spring-boot/SpringBoot_
+ Basics
+Created-By: Maven Integration for Eclipse
+
